@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "SnojeyhMoY1+/htGy6ZRfKtFtQiP7f99g8pZtHqiYN3lmaquBbcig1lPfGnh9iq72VwGIhtS5NC34n/wpuM8cQ==",
+  "success": true,
+  "projectFilePath": "C:\\Visual studio projects\\HelloWorld\\HelloWorld\\HelloWorld.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
